@@ -27,6 +27,7 @@ const Home = () => {
                 <button className="p-2 bg-sky-700 px-8 rounded-lg text-white my-8">Sign Up</button>
             </div>
         </nav> */}
+        
         <main className="flex justify-between items-center gap-5 max-[1024px]:justify-center flex-wrap h-[600px] max-[1024px]:h-[1200] max-w-5xl m-auto px-5">
             <hgroup className="max-w-sm max-[807px]:max-w-xl">
                 <h1 className="text-5xl max-[1024px]:text-3xl leading-tight text-sky-700 font-bold mb-8">Discover a place to manage your money safely</h1>
