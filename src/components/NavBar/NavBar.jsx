@@ -11,7 +11,6 @@ const NavBar = () => {
         setNavExpanded(!navExpanded)
     }
     const closeNav = () => setNavExpanded(false)
-
     return (
         <header>
             <nav className={style.nav}>
